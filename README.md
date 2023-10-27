@@ -21,3 +21,5 @@ Heute habe ich nur eine Sache gemacht. Und zwar das Portfolio für das Modul 431
 
 - [ ] Leistungsbeurteilung für Modul 319 fertigstellen
 - [ ] Leistungsbeurteilung abgeben
+
+Heute habe ich an der Leistungsbeurteilung für das Modul 319 weiter gearbeitet. Doch ich bin nicht fertig geworden. Ich habe zuerst gemeint, das es bis um Freitag fertig sein soll, dafür ist es erst am Sonntag. Also habe ich noch 2 Tage Zeit, um die Leistungsbeurteilung fertig zu stellen. Diesesmal habe ich konzentrierter gearbeitet, weil ich Zuhause einfach mehr ruhe habe. [61]  
