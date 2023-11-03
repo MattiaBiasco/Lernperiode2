@@ -23,3 +23,9 @@ Heute habe ich nur eine Sache gemacht. Und zwar das Portfolio für das Modul 431
 - [ ] Leistungsbeurteilung abgeben
 
 Heute habe ich an der Leistungsbeurteilung für das Modul 319 weiter gearbeitet. Doch ich bin nicht fertig geworden. Ich habe zuerst gemeint, das es bis um Freitag fertig sein soll, dafür ist es erst am Sonntag. Also habe ich noch 2 Tage Zeit, um die Leistungsbeurteilung fertig zu stellen. Diesesmal habe ich konzentrierter gearbeitet, weil ich Zuhause einfach mehr ruhe habe. [61]  
+
+## 03.11.2023
+
+![image](https://github.com/MattiaBiasco/Lernperiode2/assets/142606014/3e004549-75f5-4056-8116-45e067dfd103)
+
+Heute habe ich mir überlegt, was ich programmieren könnte. Da ich mich noch nicht so auskenne habe ich etwas leichtes genommen. Einen einfachen Taschenrechner, mit dem man Plus, Minus, Mal und Geteilt durch rechnen kann. Zur Hilfe habe ich mir ein Tutorial auf Youtube angeschaut.
