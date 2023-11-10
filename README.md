@@ -29,3 +29,12 @@ Heute habe ich an der Leistungsbeurteilung für das Modul 319 weiter gearbeitet.
 ![image](https://github.com/MattiaBiasco/Lernperiode2/assets/142606014/3e004549-75f5-4056-8116-45e067dfd103)
 
 Heute habe ich mir überlegt, was ich programmieren könnte. Da ich mich noch nicht so auskenne habe ich etwas leichtes genommen. Einen einfachen Taschenrechner, mit dem man Plus, Minus, Mal und Geteilt durch rechnen kann. Zur Hilfe habe ich mir ein Tutorial auf Youtube angeschaut.
+
+## 10.11.2023
+
+Heute habe ich mit Vincent und Brandon zusammen an unserem Projekt weiter gearbeitet. Wir wollen einen Währungsrechner erstellen, der mit den aktuellen Kursen rechnet. Wir haben vorallem recherchiert, wie man eine GUI erstellt. Wir sind heute nicht so weit gekommen, da wir lange nicht gewusst haben, wie wir weiter machen sollen [51]
+
+## Arbeitspackete für 17.11.2023
+
+- [ ] Am Währungsrechner weiterarbeiten
+- [ ] Eigenes kleines Programmierprojekt machen
