@@ -42,3 +42,13 @@ Heute habe ich mit Vincent und Brandon zusammen an unserem Projekt weiter gearbe
 ![image](https://github.com/MattiaBiasco/Lernperiode2/assets/142606014/7e9f328e-6f61-43c5-8ccf-b2b7aa943a49)
 
 Heute wollte ich eine Art Würfel programmieren. Im Windows Form soll man einen Button drücken können und dann soll eine Zahl von 1-6 ausgegeben. Ich habe eigentlich gedacht, dass ich das schafen würde, doch nach einiger Zeit habe ich aufgegeben, weil ich einfach keine Idee mehr hatte. Am Ende habe ich mir noch einige Lernvideos zu C# angeschaut. [58]
+
+## 24.11.2023
+
+Heute habe ich nochmals Versucht mein Würfel zu programmieren und habe es auch geschaft. Danach habe ich überlegt, was ich noch dazu machen kann. Ich habe noch ein Button mit "Beenden" eingebaut, der das Programm schliesst. Danach habe ich noch ein Erklärvideo angeschaut, um die Grundlagen nochmals zu repetieren. [50]
+
+## Arbeitspackete für 01.12.2023
+
+- [ ] Projekt-Vortrag vorbereiten
+- [ ] Programmier-Adventskalender
+- [ ] etwas kleines Programmieren
