@@ -36,8 +36,8 @@ Heute habe ich mit Vincent und Brandon zusammen an unserem Projekt weiter gearbe
 
 ## Arbeitspackete für 17.11.2023
 
-- [ ] Am Währungsrechner weiterarbeiten
-- [ ] Eigenes kleines Programmierprojekt machen
+- [x] Am Währungsrechner weiterarbeiten
+- [x] Eigenes kleines Programmierprojekt machen
 
 ![image](https://github.com/MattiaBiasco/Lernperiode2/assets/142606014/7e9f328e-6f61-43c5-8ccf-b2b7aa943a49)
 
@@ -51,4 +51,4 @@ Heute habe ich nochmals Versucht mein Würfel zu programmieren und habe es auch 
 
 - [ ] Projekt-Vortrag vorbereiten
 - [ ] Programmier-Adventskalender
-- [ ] etwas kleines Programmieren
+- [ ] Portfolio für 162 machen
