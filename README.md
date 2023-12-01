@@ -52,3 +52,9 @@ Heute habe ich nochmals Versucht mein Würfel zu programmieren und habe es auch 
 - [ ] Projekt-Vortrag vorbereiten
 - [ ] Programmier-Adventskalender
 - [ ] Portfolio für 162 machen
+
+Heute habe ich angefangen mit dem 1 Rätsel vom Programmier-Adventskalender. Ich habe ein Programm erstellt, in das ich eine Folge aus Zahlen und Buchstaben eingeben kann und dann gibt es die erste und die letzte Zahl aus. Weiter bin ich nicht gekommen. Danach habe ich angefangen, am Portfolio für das Modul 162 zu arbeiten. [56]
+
+## Arbeitspackete für 08.12.2023
+
+- [ ] 3 Rätsel im Programmier-Adventskalender lösen
