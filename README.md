@@ -58,3 +58,10 @@ Heute habe ich angefangen mit dem 1 Rätsel vom Programmier-Adventskalender. Ich
 ## Arbeitspackete für 08.12.2023
 
 - [ ] 3 Rätsel im Programmier-Adventskalender lösen
+
+Heute habe ich eigentlich geplant gehabt, am Programmieradventskalender weiter zu machen. Am Montag haben wir ein neues Modul gestartet. Dort bin ich mit den geplanten Aufträgen nicht fertig geworden. Also habe ich heute noch die Aufträge fertig gemacht. Zusätzlich habe ich noch ein bischen weiter gemacht, damit ich nächstes mal weniger machen muss. [63]
+
+## Arbeitspackete für 15.11.2023
+
+- [ ] Aufträge von Montag oder Mittwoch fertig machen
+- [ ] Programmier-Adventskalender
