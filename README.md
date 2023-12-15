@@ -61,7 +61,15 @@ Heute habe ich angefangen mit dem 1 Rätsel vom Programmier-Adventskalender. Ich
 
 Heute habe ich eigentlich geplant gehabt, am Programmieradventskalender weiter zu machen. Am Montag haben wir ein neues Modul gestartet. Dort bin ich mit den geplanten Aufträgen nicht fertig geworden. Also habe ich heute noch die Aufträge fertig gemacht. Zusätzlich habe ich noch ein bischen weiter gemacht, damit ich nächstes mal weniger machen muss. [63]
 
-## Arbeitspackete für 15.11.2023
+## Arbeitspackete für 15.12.2023
 
 - [ ] Aufträge von Montag oder Mittwoch fertig machen
 - [ ] Programmier-Adventskalender
+
+Heute habe ich den Auftrag 7703 im Modul 164 bearbeitet. Danach habe ich mir das 12.Rätsel im Advent of Code angeschaut, hatte aber keine Idee. Also habe ich ein kleines Programmierprojekt angefangen. Ich möchte ein Snake Game programmieren mit einer Schlange, die mit jedem Apfel ein Stück grösser wird. Ich musste noch Bilder einfügen. Den Apfel und die Mauern habe ich vom Internet. Der Snake Körper und der Snake Kopf habe ich selber gezeichnet und eingefügt. Es gibt insgesamt 18 Teile, wo von ich 5 Teile heute gemacht habe. [89]
+
+## Arbeitspackete für 22.11.2023
+
+- [ ] Auftrag 7707 von Modul 164
+- [ ] Auftrag 7708 von Modul 164
+- [ ] Snake Game bis Teil 10 machen
