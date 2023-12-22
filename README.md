@@ -75,3 +75,71 @@ Heute habe ich den Auftrag 7703 im Modul 164 bearbeitet. Danach habe ich mir das
 - [ ] Snake Game bis Teil 10 machen
 
 Da ich letzten Mittwoch Schwierigkeiten mit dem Instalieren eines Programms hatte, habe ich noch viele Aufträge, die ich machen muss. Also habe ich das Snake Game auf nächstes Mal verschoben und habe an den Aufträgen weiter gearbeitet. Ich habe die Aufträge 7704, 7705 und 7706 bearbeitet. Somit muss ich nicht mehr so viel in den Ferien nachholen. [57]
+
+## Reflexion
+In der Lernperiode 2 habe ich das Lernatelier vor allem für das Bearbeiten der Module verwendet. Oft bin ich mit den geplanten Aufträgen am Montag oder Mittwoch nicht fertig geworden. Durch das Lernatelier hatte ich noch Zeit, die Aufträge noch zu erledigen. Sonst hätte ich sie noch über das Wochenende fertig machen müssen. Wenn ich noch ein Portfolio machen musste, konnte ich das Lernatelier gut nutzen um weiter zu arbeiten. Manchmal habe ich auch etwas kleines Programmiert. Meistens musste ich mir zur Hilfe ein Tutorial anschauen. Und auch beim Advent of Code habe ich versucht etwas zu lösen, habe es aber nicht geschaft. Das hat mir gezeigt, das meine Programmier-Kenntnisse viel zu weiter unten sind, als sie eigentlich sein sollten. Grund dafür ist, das ich am Anfang dieser Lernperiode gemerkt habe, dass mich das Programmieren nicht so interessiert und ich lieber etwas anderes lernen sollte. Ich bin mir nun auch sicher, dass ich die Schule im Sommer beenden werde. Dadurch fehlt mir die Motivation meine Programmier-Kenntnisse noch weiter zu verbessern, da ich sie wahrscheindlich später eh nicht mer brauchen werde.
+
+## Verbesserung in der nächsten LP
+Die nächste Lernperiode werde ich weiterhin nutzen, um Aufträge und Portfolios zu bearbeiten. Ich werde versuchen ein Programmier-Projekt ohne ein Tutorial zu machen. Ich werde mir klarere Arbeitspackete planen. 
+
+## Code vom Snake Game
+Das ist der Code den ich bereits geschrieben habe:
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Snake
+{
+    public partial class frmSnake : Form
+    {
+        Random rand;
+        enum GameBoardFields
+        {
+            Free,
+            Snake,
+            Bonus
+        };
+
+        enum Directions
+        {
+            Up,
+            Down,
+            Left,
+            Right
+        };
+
+        struct SnakeCoordinates
+        {
+            public int x;
+            public int y;
+        }
+
+        GameBoardFields[,] gameBoardField;
+        SnakeCoordinates[] snakeXY;
+        int snakeLength;
+        Directions direction;
+        Graphics g;
+
+        
+        public frmSnake()
+        {
+            InitializeComponent();
+            gameBoardField = new GameBoardFields[11, 11];
+            snakeXY = new SnakeCoordinates[100];
+            rand = new Random();
+        }
+
+        private void frmSnake_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
+
