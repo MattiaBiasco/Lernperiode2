@@ -73,3 +73,5 @@ Heute habe ich den Auftrag 7703 im Modul 164 bearbeitet. Danach habe ich mir das
 - [ ] Auftrag 7707 von Modul 164
 - [ ] Auftrag 7708 von Modul 164
 - [ ] Snake Game bis Teil 10 machen
+
+Da ich letzten Mittwoch Schwierigkeiten mit dem Instalieren eines Programms hatte, habe ich noch viele Aufträge, die ich machen muss. Also habe ich das Snake Game auf nächstes Mal verschoben und habe an den Aufträgen weiter gearbeitet. Ich habe die Aufträge 7704, 7705 und 7706 bearbeitet. Somit muss ich nicht mehr so viel in den Ferien nachholen. [57]
